@@ -1,1 +1,0 @@
-# AWS_Amplify_Authentication_ReactNative
