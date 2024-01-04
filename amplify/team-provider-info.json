@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stampawsapp-dev-170104-authRole",
+      "UnauthRoleArn": "arn:aws:iam::175328703031:role/amplify-stampawsapp-dev-170104-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::175328703031:role/amplify-stampawsapp-dev-170104-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-stampawsapp-dev-170104-deployment",
+      "UnauthRoleName": "amplify-stampawsapp-dev-170104-unauthRole",
+      "StackName": "amplify-stampawsapp-dev-170104",
+      "StackId": "arn:aws:cloudformation:us-east-1:175328703031:stack/amplify-stampawsapp-dev-170104/6ad664b0-aad7-11ee-9d0d-12da49883c27",
+      "AmplifyAppId": "d24l5eqzrcsjgn"
+    },
+    "categories": {
+      "auth": {
+        "stampawsapp912e9d6f": {}
+      }
+    }
+  }
+}
